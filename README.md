@@ -1,17 +1,35 @@
-# lab_task_3
+# Restaurant Menu App
 
-A Flutter restaurant menu app
+A Flutter application developed for the TMA3084 Software Engineering Lab (Group 1).
 
-## Getting Started
+## Student Information
 
-This project is a starting point for a Flutter application.
+*Name:* Ryea Carrere Anak Lawin
 
-A few resources to get you started if this is your first Flutter project:
+*Matric Number:* 102942
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Project Description
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application displays a restaurant menu featuring three food items: Vegetable Pizza, Beef Burger, and Spaghetti Bolognese.
+
+Users can tap a food item to view its details, including its price, description, and ingredients.
+
+## Features
+
+- Displays three food menu cards with images.
+- Provides a separate food details screen.
+- Shows food prices, descriptions, and ingredients.
+- Supports navigation between the menu and details screens.
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Android Studio
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project in Android Studio.
+3. Run *flutter pub get* in the terminal.
+4. Launch the application on an Android emulator or compatible device.
